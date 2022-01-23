@@ -58,4 +58,4 @@ Here are some ideas to get you started:
      hit any key to continue
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Maizehsu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Maize's github activity graph](https://activity-graph.herokuapp.com/graph?username=Maizehsu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
