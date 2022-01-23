@@ -17,7 +17,7 @@ Here are some ideas to get you started:
             /                                                \
            |    _________________________________________     |
            |   |                                         |    |
-           |   |  C:\> Hi there, I'm Maize the noob      |    |
+           |   |  C:\> Hi there, I'm Maize the Noob      |    |
            |   |                                         |    |
            |   |  C:\> Welcome to my homepage            |    |
            |   |                                         |    |
