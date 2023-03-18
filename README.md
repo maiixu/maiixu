@@ -13,31 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-             ________________________________________________
-            /                                                \
-           |    _________________________________________     |
-           |   |                                         |    |
-           |   |  C:\> Hi there, I'm Maize the Noob      |    |
-           |   |                                         |    |
-           |   |  C:\> Welcome to my homepage            |    |
-           |   |                                         |    |
-           |   |  C:\> !Walk around and have fun_        |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |_________________________________________|    |
-           |                                                  |
-            \_________________________________________________/
-                   \___________________________________/
-                ___________________________________________
-             _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
-          _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
-       _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
-    _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_
+Hi 👋 Maize here.
+
+- 🧑‍💻 Software Engineering
+- 🎓 Currently pursuing my degree at UMich
+- 🎸 Music lover and Guitar player
+- 🌲 Hiking and outdoor enthusiast
+- 🎬 Movie buff and Live concert goer
+- 📝 Use Flask/Django for backend, React for frontend
+- 🌍 Always looking to create impactful projects that positively impact society
+
+[Homepage](https://maizehsu.me/) (en / zh) · [About](https://maizehsu.me/about/) (en)
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Maizehsu&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Maize's GitHub stats" height="185px" />
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Maize&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Maize's Top Langs" height="185px" />
                               
 
 <!--
