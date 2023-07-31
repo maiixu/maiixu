@@ -1,27 +1,11 @@
-<!--
-**Maizehsu/Maizehsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 Mai here.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hi 👋 Maize here.
-
-- 🧑‍💻 Software Engineering
-- 🎓 Currently pursuing my degree at UMich
-- 🎸 Music lover and Guitar player
-- 🌲 Hiking, Outdoor and Roadtrip enthusiast
-- 🎬 Movie buff and Live concert goer
-- 📝 Use Flask/Django for backend, React for frontend
-- 🌍 Always looking to create impactful projects that positively impact society
+- 🧑‍💻 Software Engineer
+- 🎸 Guitarist
+- 🎓 Junior Computer Science student at UMich
+- ✨ Minimalism, Productivity and [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management)
+- 💻 NodeJS backend, React frontend, looking into Serverless
+- 🌍 Opensource and Knowledge Sharing
 
 [Homepage](https://maizehsu.me/) (en / zh) · [About](https://maizehsu.me/about/) (en)
 
