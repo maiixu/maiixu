@@ -20,7 +20,7 @@
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,mysql,docker,jenkins,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,mysql,docker,jenkins,cloudflare,linux,bash,regex" />
   </a>
 </p>
 <p>
