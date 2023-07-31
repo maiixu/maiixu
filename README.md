@@ -25,22 +25,22 @@ Hi 👋 Maize here.
 
 [Homepage](https://maizehsu.me/) (en / zh) · [About](https://maizehsu.me/about/) (en)
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,rust,c,lua" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,nextjs,spring,flask,django,webpack,vite,cmake,maven" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,mysql,docker,jenkins,linux,bash" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=md,latex,figma,git,github,gitlab,postman,vscode,vim" />
   </a>
