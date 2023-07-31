@@ -46,9 +46,7 @@ Hi 👋 Maize here.
   </a>
 </p>
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Maizehsu&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Maize's GitHub stats" height="185px" />
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Maize&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Maize's Top Langs" height="185px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Maizehsu&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Maize's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Maize&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Maize's Top Langs" height="185px" />
                               
 
 <!--
