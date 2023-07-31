@@ -25,7 +25,8 @@ Hi 👋 Maize here.
 
 [Homepage](https://maizehsu.me/) (en / zh) · [About](https://maizehsu.me/about/) (en)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,vscode,vim)](https://skillicons.dev)
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Maizehsu&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Maize's GitHub stats" height="185px" />
 
