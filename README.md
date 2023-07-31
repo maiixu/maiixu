@@ -2,7 +2,6 @@
 
 - 🧑‍💻 Software Engineer
 - 🎸 Guitarist
-- 🎓 Junior Computer Science student at UMich
 - ✨ Minimalism, Productivity and [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management)
 - 💻 NodeJS backend, React frontend, looking into Serverless
 - 🌍 Opensource and Knowledge Sharing
