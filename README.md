@@ -32,7 +32,7 @@ Hi 👋 Maize here.
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,next.js,spring,flask,django,webpack,vite" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,nextjs,spring,flask,django,webpack,vite,cmake,maven" />
   </a>
 </p>
 <p align="center">
@@ -42,7 +42,7 @@ Hi 👋 Maize here.
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,latex,git,github,gitlab,postman,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=md,latex,figma,git,github,gitlab,postman,vscode,vim" />
   </a>
 </p>
 
