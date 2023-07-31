@@ -25,13 +25,18 @@ Hi 👋 Maize here.
 
 [Homepage](https://maizehsu.me/) (en / zh) · [About](https://maizehsu.me/about/) (en)
 
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,rust,c,lua)](https://skillicons.dev)
- <br />
+</p>
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,next.js,spring,flask,django,webpack,vite)](https://skillicons.dev)
- <br />
+</p>
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=aws,mongodb,postgres,mysql,docker,jenkins,linux,bash)](https://skillicons.dev)
- <br />
+</p>
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=md,latex,git,github,gitlab,postman,vscode,vim)](https://skillicons.dev)
+</p>
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Maizehsu&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Maize's GitHub stats" height="185px" />
 
