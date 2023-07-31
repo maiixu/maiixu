@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Software Engineer
 - 🎸 Guitarist
-- ✨ Minimalism, Productivity and [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management)
+- ✨ Minimalism, Productivity, and [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management)
 - 💻 NodeJS backend, React frontend, looking into Serverless
 - 🌍 Opensource and Knowledge Sharing
 
@@ -29,4 +29,4 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Maizehsu&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Maize&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" height="185px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=maizehsu&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maizehsu&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" height="185px" />
