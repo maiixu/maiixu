@@ -27,7 +27,7 @@ Hi 👋 Maize here.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,rust,c,lua)" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,rust,c,lua" />
   </a>
 </p>
 <p align="center">
