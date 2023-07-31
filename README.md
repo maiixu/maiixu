@@ -26,7 +26,9 @@ Hi 👋 Maize here.
 [Homepage](https://maizehsu.me/) (en / zh) · [About](https://maizehsu.me/about/) (en)
 
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,rust,c,lua)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,rust,c,lua)" />
+  </a>
 </p>
 <p align="center">
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,next.js,spring,flask,django,webpack,vite)](https://skillicons.dev)
