@@ -8,21 +8,32 @@
 
 [Homepage](https://maizehsu.me/) (en / zh) · [About](https://maizehsu.me/about/) (en)
 
+## Languages
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,rust,c,lua" />
   </a>
 </p>
+
+## Frameworks
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,nextjs,tailwind,spring,flask,django,webpack,vite,cmake,maven,babel" />
   </a>
 </p>
+
+## DevOps
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,mysql,docker,jenkins,cloudflare,linux,bash,regex" />
   </a>
 </p>
+
+# Tools
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=md,latex,figma,git,github,gitlab,postman,vscode,vim" />
