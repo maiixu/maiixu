@@ -32,7 +32,7 @@
   </a>
 </p>
 
-# Tools
+## Tools
 
 <p>
   <a href="https://skillicons.dev">
