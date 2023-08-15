@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,rust,c,lua" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,rust,go,lua,c,cs" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,nextjs,tailwind,spring,flask,django,webpack,vite,cmake,maven,babel" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,redux,nextjs,tailwind,spring,flask,django,webpack,vite,cmake,maven,babel" />
   </a>
 </p>
 
