@@ -3,16 +3,15 @@
 - 🧑‍💻 Software Engineer
 - 🎸 Guitarist
 - ✨ Minimalism, Productivity, and [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management)
-- 💻 NodeJS backend, React frontend, looking into Serverless
 - 🌍 Opensource and Knowledge Sharing
 
-[Homepage](https://maizehsu.me/) (en / zh) · [About](https://maizehsu.me/about/) (en)
+[Homepage](https://maixuu.com/) (en / zh) · [About](https://maixuu.com/about/) (en)
 
 ## Languages
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,rust,go,lua,c,cs" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,java,go,c,lua" />
   </a>
 </p>
 
