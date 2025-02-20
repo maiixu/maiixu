@@ -5,7 +5,7 @@
 - ✨ Minimalism, Productivity, and [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management)
 - 🌍 Opensource and Knowledge Sharing
 
-[Homepage](https://maixuu.com/) (en / zh) · [About](https://maixuu.com/about/) (en)
+[Homepage](https://lofilog.com/) (en / zh) · [About](https://lofilog.com/about/) (en)
 
 ## Languages
 
